@@ -1,0 +1,11 @@
+{
+  "name": "auth-http-proxy",
+  "version": "0.0.1",
+  "description": "Provides Basic Auth Credentials to the target and provides non protected service locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Luggen",
+  "license": "MIT"
+}
